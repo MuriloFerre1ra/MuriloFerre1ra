@@ -19,7 +19,7 @@
 <div style="display: inline_block"><br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,postgres,go,arduino,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,react,nodejs,js,python,go,postgres,postman,git,github" />
   </a>
 </p>
 </div>
