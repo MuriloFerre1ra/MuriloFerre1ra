@@ -12,7 +12,7 @@
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Murilex1&show_icons=true&theme=dracula&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Murilex1&layout=compact&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilex1&hide=pascal&theme=tokyonight"/>
 </div>
 
 <h3>About me:</h3>
