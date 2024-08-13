@@ -4,14 +4,14 @@
 <p>
   <a href="https://www.linkedin.com/in/murilo-ferreira-b0469a222/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-
 </p>
 
 <div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Murilex1&show_icons=true&theme=dracula&count_private=true"/>
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Murilex1&layout=compact&theme=tokyonight"/>
 </div>
-<h3>About me:</h3>
 
+<h3>About me:</h3>
 <h4>I am back-end developer and Blockchain enthusiastic </h4>
 
 ## Technologys what utili in my day by day:
