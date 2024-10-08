@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MuriloFerre1ra&show_icons=true&theme=dracula&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MuriloFerre1ra&show_icons=true&theme=dracula&count_private=false&include_all_commits=true"/>
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloFerre1ra&hide=pascal&layout=compact&theme=tokyonight"/>
 </div>
 
