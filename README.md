@@ -16,7 +16,7 @@
 </div>
 
 <h3>About me:</h3>
-<h4>I am back-end developer and Blockchain enthusiastic </h4>
+<h4>I am Full Stack developer and Blockchain enthusiastic </h4>
 
 ## Technologys what utili in my day by day:
  <img src="https://skillicons.dev/icons?i=js,typescript,html,css,materialui,react,git,nodejs,express,postgres,mongodb,postman"/>
